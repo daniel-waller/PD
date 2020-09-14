@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+author: "Daniel Waller"
+date: 2020-09-14T21:19:00-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# R Markdown
+
+Welcome! I am a recent PhD graduate and aspiring Data Scientist, based in Cambridge, UK.
+
+A bit about me - I completed my PhD in Statistics and Operational Research at the [STOR-i Centre for Doctoral Training](https://www.lancaster.ac.uk/stor-i/), looking at a variety of areas in time-series forecasting, including linking forecasts to inventory management, hierarchical forecasting, and modelling multiple seasonalities and calendar effects (like Christmas/Bank Holidays) in a retail setting. You can find my thesis [here](https://eprints.lancs.ac.uk/id/eprint/143845/1/2020wallerphd.pdf).
+
+Most recently, I've been working as a Postdoctoral Research Assistant on the [LHOFT project](https://gtr.ukri.org/projects?ref=102613), a collaboration between a number of Universities and industrial partners to predict/optimise freight routes between the UK and destinations abroad, with a particular focus on the north of England. I really enjoyed this role, particularly as it involved drawing multiple datasets from different sources together and allowed to apply a range of knowledge from Stats and OR, for example combining current trends in forecasting with good old linear programming.
+
+When I'm not working, I like to mess around on the piano (mainly jazz) and most sports. I also enjoy playing chess, where I am currently graded 2208 by the [ECF](https://www.englishchess.org.uk/). 
+
+Thanks for reading! Feel free to email me at danielsimonwaller[at]gmail[dot]com. I'm also on [LinkedIn](https://www.linkedin.com/in/daniel-waller-7471a9141/). However, I'm not on Twitter. Sorry about that.
